@@ -1,2 +1,2 @@
-# manager-password
-manager password
+# Manager Password
+* Gerenciador de senhas
